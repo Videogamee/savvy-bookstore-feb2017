@@ -2,6 +2,9 @@
 ## Web Store Hackathon
 
 ---
+### Instructions
+
+To get started, run `npm install`
 
 ### Contributors
 
